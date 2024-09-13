@@ -34,7 +34,7 @@ async function removeBackgroundColor(inputPath, outputPath, targetColor, colorTh
 }
 
 function encodeImage(imagePath) {
-  //very cool hey tim and andrew
+  //thanks for the hard work tim!!
     const image = fs.readFileSync(imagePath);
     return Buffer.from(image).toString('base64');
   }
