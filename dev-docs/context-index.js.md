@@ -11,8 +11,6 @@
   
 
   
-
-  
 ---
 # removeBackgroundColor index.js
 ## Imported Code Object
@@ -20,7 +18,7 @@ undefined
 
 ### Third Party Libaries
 
-Yes, this function uses the third-party library Jimp for image processing and manipulation.
+undefined
 
 ### Code Example
 
@@ -38,7 +36,5 @@ No, this function does not use any third-party APIs or libraries; it only uses N
 
 undefined
 
-
-  
 
   
